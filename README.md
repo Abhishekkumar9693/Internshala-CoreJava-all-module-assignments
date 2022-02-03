@@ -1,1 +1,1 @@
-# Internshala_CoreJava_Assignments
+# Internshala CoreJava Assignments
